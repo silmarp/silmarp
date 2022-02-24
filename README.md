@@ -4,7 +4,7 @@
 
 You may be asking who tf am I, well, I'm currently an undergratuate student of Information Systems at Universidade de São Paulo - Brasil, but not only that, on my free time I seek to become a Full Stack developer and freelance programmer.
 
-Nowdays my interests, aside from programming, are around games, animes and manga, even though my my time is short I try to maintain those hobbies to not freak out.
+Nowdays my interests, aside from programming, are around games, animes and manga, even though my time is short I try to maintain those hobbies to not freak out.
 
 ## My languages and tools
 
