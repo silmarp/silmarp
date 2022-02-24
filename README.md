@@ -39,7 +39,7 @@ Nowdays my interests, aside from programming, are around games, animes and manga
 
 
 <a href="mailto:silmar.junior@usp.br">
-  <img src="https://img.shields.io/badge/Gmail2-D14836?style=for-the-badge&logo=gmail&logoColor=black">
+  <img src="https://img.shields.io/badge/Institutional-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black">
 </a>
 
 <a href="https://www.instagram.com/silmar.silvajunior/">
